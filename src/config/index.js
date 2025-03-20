@@ -1,0 +1,1 @@
+export const WEB_URL = "https://organicfood-40d1a.web.app";
