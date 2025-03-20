@@ -1,4 +1,4 @@
-# React Native Push Notifications (Android📲)
+## Deep Linking (Android📲)
 
 Deep linking improves user engagement by allowing direct navigation to specific app screens from external links. 🚀
 
