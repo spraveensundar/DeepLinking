@@ -1,5 +1,7 @@
 # React Native Push Notifications (Android📲)
 
+Deep linking improves user engagement by allowing direct navigation to specific app screens from external links. 🚀
+
 Domain https://organicfood-40d1a.web.app
 
 https://github.com/user-attachments/assets/c89d7093-1e98-4f75-8506-79145effafdc 
